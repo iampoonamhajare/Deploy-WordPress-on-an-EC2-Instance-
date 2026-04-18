@@ -1,1 +1,0 @@
-# Deploy-WordPress-on-an-EC2-Instance-
